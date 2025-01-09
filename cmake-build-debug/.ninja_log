@@ -1,0 +1,16 @@
+# ninja log v5
+754	1407	7357732495607839	Minesweeper.exe	3e96eeb40bc90983
+1	262	7581626940529082	build.ninja	349ee2c9651d6836
+2	753	7357732489208311	CMakeFiles/Minesweeper.dir/main.cpp.obj	c8cc79407604f72e
+15	797	7355482866901784	CMakeFiles/Minesweeper.dir/helpers.cpp.obj	8e2d6a07c11102e5
+9	1779	7355482876723302	CMakeFiles/Minesweeper.dir/Board.cpp.obj	3e3e326e4bba8588
+17	680	7352047630618645	CMakeFiles/Minesweeper.dir/random.cpp.obj	4de51b43a8f0959
+11	981	7355407743866294	CMakeFiles/Minesweeper.dir/tile.cpp.obj	306a2f92235cc91d
+35	1156	7355225937639844	CMakeFiles/Minesweeper.dir/textureManager.cpp.obj	129699b40fced727
+75	1015	7581628046342373	CMakeFiles/Minesweeper.dir/random.cpp.obj	c45260f0cf40e384
+70	1082	7581628047024147	CMakeFiles/Minesweeper.dir/helpers.cpp.obj	13aab885c2db0a23
+60	1544	7581628051625927	CMakeFiles/Minesweeper.dir/textureManager.cpp.obj	b00c5256965259c3
+65	1559	7581628051751316	CMakeFiles/Minesweeper.dir/tile.cpp.obj	9410afe9518739c6
+54	2029	7581628056470300	CMakeFiles/Minesweeper.dir/Board.cpp.obj	9919df2a4052234d
+19	2110	7581628057303514	CMakeFiles/Minesweeper.dir/main.cpp.obj	b72ef4eb51e6fd28
+2111	2799	7581628064063451	Minesweeper.exe	41fc8fa192aa8e13
