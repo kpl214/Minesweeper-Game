@@ -46,12 +46,16 @@ For detailed guidance, refer to SFML tutorials.
         Use the Debug button to toggle mine visibility (for testing).
         Press the Pause button to freeze the game.
 
+        ![minesweeper in game and debug](https://github.com/user-attachments/assets/cb229db4-095f-47b5-a2f7-117ff9e7a70b)
+
     Victory Condition:
         Reveal all non-mine tiles to win. The remaining mines are flagged automatically.
 
     Defeat Condition:
         Clicking a mine ends the game. All mines are revealed.
-        
+
+        ![minesweeper lost](https://github.com/user-attachments/assets/77355926-fefc-44c3-9ab7-15f30ae7bceb)
+
 # Leaderboard
 
 The leaderboard stores the top five scores in files/leaderboard.txt. When a player wins, their time is compared with existing records. If the player makes it to the top five, the leaderboard is updated.
