@@ -33,7 +33,7 @@ To run this project, you need the following:
 
 For detailed guidance, refer to SFML tutorials.
 
-Gameplay
+# Gameplay
 
     Welcome Window:
         Enter your name (up to 10 characters). Invalid inputs (numbers or special characters) are ignored.
